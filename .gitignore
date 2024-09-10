@@ -1,6 +1,6 @@
 # ignore these files when pushing to repository
-data/*
-output/*
+data/*.csv
+output/*.csv
 src/da_*
 src/__init__.py
 startlotto

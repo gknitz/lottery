@@ -1,0 +1,7 @@
+# ignore these files when pushing to repository
+data/*
+output/*
+src/da_*
+src/__init__.py
+startlotto
+txenlotto

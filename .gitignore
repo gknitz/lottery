@@ -2,5 +2,6 @@
 data/*.csv
 output/*.csv
 src/da_*
+random/*
 startlotto
 txenlotto

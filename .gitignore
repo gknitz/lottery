@@ -1,7 +1,7 @@
 # ignore these files when pushing to repository
 data/*.csv
 output/*.csv
-src/da_*
 random/*
+src/da_*
 startlotto
 txenlotto
